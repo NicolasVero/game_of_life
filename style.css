@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #0A0A0A;
+}
+
+canvas {
+    /* border: 10px dashed white; */
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+#counterDisplay {
+    color: white;
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+}
